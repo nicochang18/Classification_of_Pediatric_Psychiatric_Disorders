@@ -23,4 +23,4 @@ Four steps is operated in this file
 3. Filtering
 4. Normalization
 
-## Machine Learning
+## Deep Learning
