@@ -24,3 +24,4 @@ Four steps is operated in this file
 4. Normalization
 
 ## Deep Learning
+to be continued...
