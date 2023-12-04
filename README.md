@@ -1,4 +1,4 @@
-# Classification_of_Pediatric_Psychiatric_Disorders
+# Classification_of_Pediatric_Psychiatric_Disorders 100% Accuracy
 
 ## Reference
 These data are collected in National Taiwan University Hospital Hsin-Chu Branch.  
